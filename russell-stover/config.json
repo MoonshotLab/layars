@@ -1,0 +1,24 @@
+{
+  "layer": "russell_stover",
+  "hotspots": [
+    {
+      "id": "russell_stover",
+      "text": {
+        "title": "russell_stover",
+      },
+      "anchor": {
+        "referenceImage": "rs_anchor"
+      },
+      "object": {
+        "url": "https://raw.githubusercontent.com/MoonshotLab/layars/master/russell-stover/assets/insides-with-text.jpg",
+        "contentType": "image/jpg",
+        "size": 0.5
+      },
+      "transform": {
+       "scale": 10
+      },
+    }
+  ],
+  "errorCode": 0,
+  "errorString": "OK"
+}
