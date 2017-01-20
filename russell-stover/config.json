@@ -4,7 +4,7 @@
     {
       "id": "russell_stover",
       "text": {
-        "title": "russell_stover",
+        "title": "russell_stover"
       },
       "anchor": {
         "referenceImage": "rs_anchor"
@@ -16,7 +16,7 @@
       },
       "transform": {
        "scale": 10
-      },
+      }
     }
   ],
   "errorCode": 0,
