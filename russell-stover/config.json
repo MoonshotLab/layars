@@ -1,20 +1,28 @@
 {
-  "layer": "russell_stover",
   "hotspots": [
     {
       "id": "russell_stover",
-      "text": {
-        "title": "russell_stover"
-      },
       "anchor": {
-        "referenceImage": "rs_anchor"
+        "referenceImage": "russell_stover"
+      },
+      "text": {
+        "title": "Russell Stover Layar"
       },
       "object": {
         "url": "https://s3.amazonaws.com/moonshot-layars/russell_stover/insides-with-text.png",
         "contentType": "image/png",
+        "size": 0.3
       },
+      "transform": {
+        "translate": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        }
+      }
     }
   ],
-  "errorCode": 0,
-  "errorString": "OK"
+  "layer": "russell_stover",
+  "errorString": "ok",
+  "errorCode": 0
 }
