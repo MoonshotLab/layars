@@ -10,7 +10,7 @@
         "referenceImage": "rs_anchor"
       },
       "object": {
-        "url": "https://raw.githubusercontent.com/MoonshotLab/layars/master/russell-stover/assets/insides-with-text.jpg",
+        "url": "https://s3.amazonaws.com/moonshot-layars/russell_stover/insides-with-text.jpg",
         "contentType": "image/jpg",
         "size": 0.5
       },
