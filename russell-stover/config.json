@@ -12,11 +12,7 @@
       "object": {
         "url": "https://s3.amazonaws.com/moonshot-layars/russell_stover/insides-with-text.png",
         "contentType": "image/png",
-        "size": 0.5
       },
-      "transform": {
-       "scale": 1
-      }
     }
   ],
   "errorCode": 0,
